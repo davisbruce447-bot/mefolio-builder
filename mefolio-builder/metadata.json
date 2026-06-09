@@ -1,6 +1,0 @@
-{
-  "name": "Mefolio Builder",
-  "description": "A beautiful, interactive portfolio builder inspired by Aylfolio, complete with mouse-responsive constellation backgrounds, customizable profiles, live tech stack tags, custom projects, contact form, and real-time Discord status.",
-  "requestFramePermissions": [],
-  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
-}
